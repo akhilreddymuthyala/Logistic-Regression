@@ -5,7 +5,7 @@ The model predicts whether a user will purchase a product based on **Age, Estima
 
 ## 📂 Project Structure
 - `Social_Network_Ads.csv` → Dataset
-- `model.py` → Logistic Regression training & prediction
+- `logistic.ipynb` → Logistic Regression training & prediction
 - `app.py` → Streamlit app for interactive predictions
 - `README.md` → Project documentation
 
